@@ -57,7 +57,7 @@ public:
     }
     void print()
     {
-        for(int i=10;i>=0;--i)
+        for(int i=9;i>=0;--i)
         {
             cout<<data[i] <<"\t";
 
